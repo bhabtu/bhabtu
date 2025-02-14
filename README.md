@@ -11,7 +11,7 @@ Hello! I'm [Blien](https://www.linkedin.com/in/blien-habtu/) (pronounced _/blɛn
 All in the hopes of **creating inclusive spaces** for underrepresented students.  
 
 #### 💡 Current Passions:
-Now, with a **Master’s in Computer and Information Science** and a **B.A. in Computer Science & Linguistics**, I specialize in **full-stack development, scalable systems, and user-centered design**. My goal is to **engineer solutions that break down barriers** and make life easier and more fulfilling for people.  
+Now, with a **Master’s in Computer and Information Science** and a **B.A. in Computer Science & Linguistics**, I specialize in **full-stack development, scalable systems, and user-centered design**. My goal is to **engineer solutions that break down barriers** and make life easier and more fulfilling.  
 
 #### 🚀 What I’m Looking For: 
 I’m excited to bring my expertise in **Python, Java, and SQL** to a **software engineering or a Python developer role**, contributing to **impactful, high-quality projects** within a **supportive, community-driven team**. 
