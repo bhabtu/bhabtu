@@ -13,7 +13,7 @@ All in the hopes of **creating inclusive spaces** for underrepresented students.
 #### 💡 Current Passions:
 Now, with a **Master’s in Computer and Information Science** and a **B.A. in Computer Science & Linguistics**, I specialize in **full-stack development, scalable systems, and user-centered design**. My goal is to **engineer solutions that break down barriers** and make life easier and more fulfilling.  
 
-#### 🚀 What I’m Looking For: 
+#### 🎯 What I’m Looking For: 
 I’m excited to bring my expertise in **Python, Java, and SQL** to a **software engineering or a Python developer role**, contributing to **impactful, high-quality projects** within a **supportive, community-driven team**. 
 
 
@@ -33,6 +33,8 @@ I’m excited to bring my expertise in **Python, Java, and SQL** to a **software
 - SparkSQL, PySpark, Hadoop, MapReduce  
 - Web Systems, Database & Info Systems, Applied Machine Learning
 - Computational Linguistics, Speech Recognition & Synthesis
+
+🚀 At the moment, I'm reviewing by developing a range of Python projects, from data science and automation to web apps, games, and more.
 
 ---
 
