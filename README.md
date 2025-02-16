@@ -40,7 +40,11 @@ I’m excited to bring my expertise in **Python, Java, and SQL** to a **software
 
 ---
 
-### 📂 Other Notable Projects (not viewable on Github)
+### 📂 Other Notable Projects
+
+<details>
+<summary>Click to read about some projects not viewable on Github... </summary>
+</br>
 
 📌 **Gradual: Course Mapping Web App** *(🏆 1st place at Tri-College Hackathon)*  
 Conceptualized and developed a **Django + PostgreSQL** web app to streamline academic planning, improving efficiency by **60%** for students and advisors. Collaborated with deans and institutional staff to design an advising module based on user needs. Secured **$20K in funding**, leading to a successful beta launch.   
@@ -53,3 +57,4 @@ Analyzed **6.9M Yelp reviews & 150K+ businesses** using **Spark DataFrames & AWS
 
 📌 **Microblogging & Streaming App**  
 Built a **full-stack web app** with **Node.js, Express, React, and MongoDB**, featuring **livestream support & user authentication**. Implemented **Extreme Programming (XP) methodologies**, achieving **80%+ code coverage** with Jest, Selenium, and CI testing, reducing bug rate by **25%**.  
+</details>
