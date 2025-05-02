@@ -46,15 +46,28 @@ I’m excited to bring my expertise in **Python, Java, and SQL** to a **software
 <summary>Click to read about some projects not viewable on Github... </summary>
 </br>
 
-📌 **Gradual: Course Mapping Web App** *(🏆 1st place at Tri-College Hackathon)*  
-Conceptualized and developed a **Django + PostgreSQL** web app to streamline academic planning, improving efficiency by **60%** for students and advisors. Collaborated with deans and institutional staff to design an advising module based on user needs. Secured **$20K in funding**, leading to a successful beta launch.   
+📌 **Gradual –  Academic Planning Web App**  
+🏆Placed 1st out of 13 Teams at Tri-College Hackathon  
+Led the development of a course-mapping web application using PostgreSQL and Django, improving academic planning efficiency by 60% for students and advisors. Collaborated with institutional advancement staff and deans to build an advising module based on user needs. Secured $20k in funding for a minimally viable product since Summer 2019 (Haverford College's Summer Incubator), resulting in a successful beta launch and positive feedback from 100 users.
 
 📌 **Distributed Search Engine**  
-Engineered a **scalable, cloud-based search engine** using **Apache Storm, Hadoop, AWS S3, DynamoDB, and Spark Java**. Designed a **Mercator-style crawler, TF-IDF retrieval engine, and PageRank algorithm**, processing **150K+ HTML documents**. Deployed on **Amazon EC2**, optimizing performance for **1,000+ concurrent requests**.  
+Designed and deployed a distributed, cloud-based search engine from scratch using Apache Storm, Hadoop, AWS EC2/S3, DynamoDB, and Spark Java. Built core components including a Mercator-style crawler, TF-IDF retrieval engine, and PageRank-based ranking system. Web crawled a 600+ species bird guide and processed 150,000 HTML documents (45GB total), splitting data into 300MB chunks to enable parallel batch processing. Developed a modular, thread-safe backend and a query interface capable of serving 1,000+ concurrent requests, validated via Apache Bench testing.
 
-📌 **Data-Driven Restaurant Success Analyzer**  
-Analyzed **6.9M Yelp reviews & 150K+ businesses** using **Spark DataFrames & AWS S3**. Applied **PCA, decision trees, and k-means clustering** for predictive modeling, extracting insights to optimize restaurant recommendations.  
+📌 **Data-Driven Restaurant Success Predictor**  
+Analyzed 6.9M Yelp reviews and 150K+ businesses using Apache Spark and AWS S3 to build predictive models for restaurant success; used semantic sentiment analysis (AFINN) and k-means clustering to identify key business attributes, model user mood and re-rank restaurant ratings. Applied PCA, decision trees, and k-means to cluster businesses and predict popularity based on 1.2M+ attributes, comparing model performances to improve accuracy and interpretability.
 
-📌 **Microblogging & Streaming App**  
-Built a **full-stack web app** with **Node.js, Express, React, and MongoDB**, featuring **livestream support & user authentication**. Implemented **Extreme Programming (XP) methodologies**, achieving **80%+ code coverage** with Jest, Selenium, and CI testing, reducing bug rate by **25%**.  
+📌 **Microblogging And Streaming App**  
+Engineered a blog web app with Node.js, Express, React, and MongoDB, featuring livestream support and user authentication. Applied Extreme Programming methodology, focusing on testing patterns, security, and documentation. Achieved 80%+ code coverage with unit, functional (Jest), automated (Selenium), and CI (Travis) tests. Improved code quality and reduced bug rate by 25%, ensuring 100% feature delivery and production readiness through code reviews and rigorous checks.
+
+📌 **Consilium – Career Affordability Explorer App**  
+Built a full-stack web app with React and Node.js that integrates 785,000+ data points across cost of living, wage, and housing datasets, giving users personalized insights into future city affordability and career planning. Engineered and optimized AWS RDS-backed data ETL pipelines to ingest and normalize datasets from Zillow and BLS enabling scalable querying and real-time comparison of employment and wage statistics across metro areas.
+
+📌 **HaskCal – Calendar DSL Compiler**  
+Designed and implemented a declarative, purely functional language for generating calendar events (.ics files); built a full compilation pipeline and parser from text-based input to Haskell AST (intermediate Haskell representation) with dependency-aware scheduling logic. Developed reusable Haskell modules with higher-order functions, type classes, and robust error handling; validated correctness via unit tests and property-based testing (QuickCheck).
+
+📌 **HERA Microprocessor**  
+Designed and simulated a 16-bit RISC microprocessor using Logisim, implementing arithmetic, logical, memory, and control operations on Haverford’s Educational RISC Architecture (HERA). Built support for branching, flag setting (sign, zero, overflow, carry), and machine code execution.
+
+📌 **Registrar’s Problem – Course Scheduling Optimizer**  
+Developed and optimized a Python-based course scheduling algorithm to minimize conflicts and maximize aggregate student satisfaction, factoring in student preferences, instructor availability, and room constraints. Analyzed algorithmic tradeoffs and iterated solutions to improve real-world applicability.
 </details>
